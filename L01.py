@@ -18,6 +18,7 @@ print("Hello, World!")
 print("I love Tokyo")
 print("I Love America")
 print("I Love Python")
+print("I Love CIEE")
 
 
 # new line and space
