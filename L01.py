@@ -9,6 +9,8 @@
 #check python editor version 
 import sys
 print(sys.version)
+print(sys.version_info)
+print("Trial version: ", sys.version_info.major, sys.version_info.minor, sys.version_info.micro)
 
 
 # Hello world
