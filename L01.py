@@ -17,6 +17,7 @@ print("Trial version: ", sys.version_info.major, sys.version_info.minor, sys.ver
 print("Hello, World!")
 print("I love Tokyo")
 print("I Love America")
+print("I Love Python")
 
 
 # new line and space
